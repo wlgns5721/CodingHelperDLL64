@@ -1,0 +1,4 @@
+LIBRARY CodingHelperDLL64
+
+EXPORTS
+GetMsgProc @1
